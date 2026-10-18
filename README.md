@@ -1,3 +1,16 @@
+# Enterprise AI Studio & Multi-Agent Platform
+
+[![CI](https://github.com/yousefkhaled2005/enterprise-ai-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/yousefkhaled2005/enterprise-ai-platform)
+[![Next.js](https://img.shields.io/badge/Frontend-Next.js%2014%20%7C%20React%2018-black.svg)](frontend/)
+[![FastAPI](https://img.shields.io/badge/Backend-FastAPI%20%7C%20Async%20WebSockets-teal.svg)](backend/)
+[![Redis](https://img.shields.io/badge/Cache-Redis%207%20Streams-red.svg)](docker-compose.yml)
+[![Locust](https://img.shields.io/badge/Load%20Tested-Locust%20P95%20%3C%20450ms-orange.svg)](tests/)
+[![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
+
+A full-stack, enterprise-grade AI Studio and Multi-Agent Playground engineered by **Yousef Khaled**. Combines a cutting-edge Next.js 14 / React 18 responsive UI with an asynchronous FastAPI streaming engine, WebSocket token streaming, Redis session management, and Locust load testing suite.
+
+---
+
 # Enterprise AI Studio: Full-Stack Multi-Agent Orchestration Platform
 
 [![TypeScript](https://img.shields.io/badge/Frontend-React%20%2F%20TypeScript-3178C6.svg)](https://www.typescriptlang.org/)
